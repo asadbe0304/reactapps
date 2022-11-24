@@ -1,4 +1,4 @@
-import img from "./component/svg/Group 137.svg";
+import img from "./../assets/svg/Group 137.svg";
 
 function App() {
   return (

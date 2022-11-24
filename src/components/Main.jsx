@@ -11,7 +11,7 @@ function Main() {
             <div class="hero-top">
               <div class="hero__top--inner">
                 <p class="hero__text">
-                  <span class="color">Pojok Baca Probolinggo</span>
+                  <span class="color">Pojok Baca</span>
                   Probolinggo
                 </p>
                 <h1 class="hero__title">

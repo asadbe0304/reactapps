@@ -12,6 +12,7 @@ const Card = (props) => {
         “Cuma perlu <strong>satu buku</strong> untuk jatuh cinta pada membaca, Cari Buku itu! <strong>Mari jatuh cinta!</strong>
                 </blockquote>
         </div>
+        
         <div class="card__body card__second">
         <img src={avatar} width={80} height={80} alt="person"/>
         <div class="card__body--inner">

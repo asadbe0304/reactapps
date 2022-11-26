@@ -1,6 +1,6 @@
-import search from "./svg/akar-icons_search.svg";
-import search2 from "./svg/s.svg";
-import hero from "./png/hero1.png"
+import search from "./../../assets/svg/akar-icons_search.svg";
+import search2 from "./../../assets/svg/s.svg";
+import hero from "./../../assets/png/hero1.png";
 
 function Main() {
   return (
@@ -29,12 +29,12 @@ function Main() {
                   Cari Judul Buku
                   <img src={search2} width="20" height="20" alt="icon" />
                 </a>
-              <div class="line"></div>
+                <div class="line"></div>
               </div>
             </div>
-        <div class="hero__bottom">
-        <img src={hero} width="1238" height="580" alt="hero image" />
-        </div>
+            <div class="hero__bottom">
+              <img src={hero} width="1238" height="580" alt="hero image" />
+            </div>
           </div>
         </div>
       </main>

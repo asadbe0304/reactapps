@@ -1,8 +1,8 @@
-import img1 from "./png/child.png";
-import img2 from "./png/fr.png";
-import img3 from "./png/fram.png";
-import img4 from "./svg/donate.svg";
-import img5 from "./svg/vat.svg";
+import img1 from "./../../assets/png/child.png";
+import img2 from "./../../assets/png/fr.png";
+import img3 from "./../../assets/png/fram.png";
+import img4 from "./../../assets/svg/donate.svg";
+import img5 from "./../../assets/svg/vat.svg";
 
 function bar() {
   return (

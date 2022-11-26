@@ -1,5 +1,5 @@
-import logo from "./svg/footerlog.svg";
-import social from "./svg/facebok.svg";
+import logo from "./../../assets/svg/footerlog.svg";
+import social from "./../../assets/svg/facebok.svg";
 
 function Footer() {
   return (

@@ -1,8 +1,8 @@
-import hawkins from "./png/havkins.png"
-import simmon from "./png/simmons.png"
-import next from "./svg/per.svg"
-import dot from "./svg/dot.svg"
-import dt from "./svg/dt.svg"
+import hawkins from "./../../assets/png/havkins.png"
+import simmon from "./../../assets/png/simmons.png"
+import next from "./../../assets/svg/per.svg"
+import dot from "./../../assets/svg/dot.svg"
+import dt from "./../../assets/svg/dt.svg"
 
 function Rec() {
   return (
